@@ -18,7 +18,7 @@ export default function Navbar() {
         
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
-          <img src="/vite.svg" alt="logo" className="w-8 h-8" />
+          <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" alt="logo" className="w-8 h-8" />
           <span className="text-2xl font-bold text-orange-600">Swiggy</span>
         </Link>
 
